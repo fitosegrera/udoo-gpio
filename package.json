@@ -1,0 +1,31 @@
+{
+    "name": "udoo-gpio",
+    "version": "0.1.0",
+    "description": "NodeJS library for manipulating the GPIOs from the UDOO Board",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fitosegrera/udoo-gpio.git"
+    },
+    "keywords": [
+        "udoo",
+        "gpio",
+        "node",
+        "nodejs",
+        "js"
+    ],
+    "author": "fito_segrera <fitosegrera@gmail.com> (http://fii.to/)",
+    "licenses": [
+      {
+        "type": "MIT",
+        "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+      }
+    ],
+    "bugs": {
+        "url": "https://github.com/fitosegrera/udoo-gpio/issues"
+    },
+    "homepage": "https://github.com/fitosegrera/udoo-gpio"
+}
